@@ -15,7 +15,8 @@
                 "label": "Features",
                 "url": "/features",
                 "style": "link",
-                "has_icon": false
+                "has_icon": false,
+                "new_window": true
             },
             {
                 "label": "Pricing",
