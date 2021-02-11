@@ -1,6 +1,6 @@
 ---
 title: New Page
-excerpt: lorem-ipsum
+excerpt: New Page
 template: page
 ---
 ## New Content
