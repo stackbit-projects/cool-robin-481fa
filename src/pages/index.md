@@ -22,6 +22,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: primary
+    has_border: true
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
