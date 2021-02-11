@@ -23,7 +23,6 @@ sections:
     padding_bottom: medium
     background_color: secondary
     has_border: false
-    background_image: images/classic/post-1.png
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
